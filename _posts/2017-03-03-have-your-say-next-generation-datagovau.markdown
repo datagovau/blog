@@ -1,0 +1,20 @@
+---
+layout: post
+title: Have your say on the next generation of data.gov.au
+author: Toby Bellwood
+---
+
+<p>In December 2015 the Government announced the <a href="http://www.innovation.gov.au/">National Innovation and Science Agenda</a> (NISA) to drive innovative ideas aimed at business growth, local jobs and economic prosperity.</p>
+<p>To make data easier to access and re-use, the Australian Government operates the open government platform <a href="http://data.gov.au">data.gov.au</a>. The platform has undergone a range of improvements since it first went live in 2009, such as the introduction of spatial data hosting in 2013.</p>
+<p>As part of the NISA, in July 2016 CSIRO’s data and digital research group, <a href="http://www.innovation.gov.au/page/data61-australias-digital-and-data-innovation-group">Data61</a>, started working with the Department of the Prime Minister and Cabinet to develop the next generation of data.gov.au.</p>
+<p><img alt="an image illustrating how data reaches citizens demonstrating that most data reaches citizens through intermediaries including government agencies, engaged citizens, advocacy groups, social media, commercial organisations and journalists and media" src="/assets/img/01.01_how_does_data_reach_citizens.png" width="100%"></p>
+<p>Currently, spatial datasets across all levels of government are accessible through the <a href="http://nationalmap.gov.au">nationalmap.gov.au</a> website. NationalMap demonstrates that open data is most powerful when users can find and re-use it without having to move between multiple sources and data catalogues. With more than 500 local governments and eight state and territory jurisdictions it is a substantial task to identify, collate, and make open data discoverable through a single platform.</p>
+<p>We have taken a new approach to making more open data discoverable. Instead of building another catalogue of datasets, we have sought inspiration from search engines by making data.gov.au’s new user-interface less complicated, and searching much faster. The new interface gives users the option to limit their search results by publisher, location, date-range, and file format.</p>
+<p>The new search also introduces semantic searching to data.gov.au. This technology allows the website to provide better search results by interpreting certain keywords. For example you can now search on terms such as ‘<a href="http://search.data.gov.au/?q=water+in+melbourne">Water <strong>in</strong> Melbourne</a>’ or ‘<a href="http://search.data.gov.au/?q=Companies+Register+by+ASIC">Companies Register <strong>by</strong> ASIC</a>’.</p>
+<p>We would love your feedback, so please take a look here: <a href="http://search.data.gov.au">search.data.gov.au</a>.</p>
+<p>As the size of the search index increases, we will look to smarter ways to rank datasets. Similar to how search engines provide results ranked by relevance, we will utilise information, such as feedback, quality, and how often the data is re-used.</p>
+<p><img alt="a screenshot of search.data.gov.au" src="/assets/img/search-preview.jpg" width="100%"></p>
+<p>Our vision for data.gov.au does not end with a borderless search. We are also introducing two design concepts to illustrate how we intend to make data.gov.au a leading global open data platform. One concept is focused on data collaboration, the other on effective consumption of Government-published open data.&nbsp; These concepts demonstrate how we will address data‑sharing issues identified in the workshops held with government data custodians. Although they are not functional yet, these concepts lay the ground work and provide the rationale as to why these tools are a necessary fit for the platform.</p>
+<p>You can find further information about the design concepts here: <a href="http://preview.data.gov.au">preview.data.gov.au</a>.</p>
+<p>If you have any questions, or comments about the new data.gov.au, please email the team at <a href="mailto:data@pmc.gov.au" class="spamspan">data@pmc.gov.au</a>.</p>
+
