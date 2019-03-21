@@ -6,6 +6,7 @@ twitter_username: datagovau
 github_username:  datagovau
 
 # Build settings
+permalink: /news-media/blog/:title
 markdown: kramdown
 plugins:
   - jekyll-feed
