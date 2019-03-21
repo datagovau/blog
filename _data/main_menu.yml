@@ -1,0 +1,8 @@
+# Main menu
+nav_items:
+- title: Blog posts
+  url: /
+- title: Contributing
+  url: /contribute
+- title: data.gov.au
+  url: https://data.gov.au

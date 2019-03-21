@@ -1,0 +1,9 @@
+<div class="au-accordion__body au-accordion--closed menu">
+  <nav class="navigation header-nav">
+              <ul class="au-link-list au-link-list--inline">
+                {% for item in site.data.main_menu.nav_items %}
+                  <li class="{% if item.url == page.url %}active{% endif %}"><a href="{{ item.url }}">{{ item.title }}</a></li>
+                {% endfor %}
+              </ul>
+  </nav>
+</div>
